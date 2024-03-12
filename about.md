@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I love math and science. Now I work as petrophysicist. I wonder how thing's running, why they work.
+Now I'm a self-taught both theoretical and applied ML and DL 
+I love sport, especially football, badminton.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:hoangdangthien97@gmail.com)
