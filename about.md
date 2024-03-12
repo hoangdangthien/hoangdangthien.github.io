@@ -11,4 +11,4 @@ I love sport, especially football, badminton.
 
 ### Contact me
 
-[email@domain.com](mailto:hoangdangthien97@gmail.com)
+[hoangdangthien97@gmail.com](mailto:hoangdangthien97@gmail.com)
