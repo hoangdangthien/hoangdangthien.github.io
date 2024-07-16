@@ -1,5 +1,5 @@
 ---
 layout: Object detection
-title: You're up and running!
+title: Object detection
 ---
-
+Object detection có 2 dạng chính là one-stage và two-stage
